@@ -1,0 +1,17 @@
+.margin__shorthand {
+  /* 上下　左右 */
+  margin: 10px 20px;
+  /* 上　左右 下 */
+  margin: 10px 20px 5px;
+  // 上　右 下 左 時計回り
+  margin: 10px 20px 5px 3px;
+}
+
+.hoge {
+  /* paddingとborderがwidthに含まれない */
+  box-sizing: content-box;
+
+  // インライン要素の中央寄せ
+  text-align: center;
+  border-radius: 5px 5px 5px 5px;
+}
