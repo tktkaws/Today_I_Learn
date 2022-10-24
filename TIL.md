@@ -1,3 +1,17 @@
+1025 1.5h
+【予定】
+top header
+top header
+top header
+【結果】
+top header
+top header
+top header
+【todo】
+jqery が効いてない
+js の読み込みについて調べる
+既存の gulp タスクがエラーをはくようになった
+
 1024 1.5h
 【予定】
 1 top ページコーディング
