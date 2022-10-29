@@ -1,3 +1,54 @@
+【todo】
+ejs 　 gulp 　 webpack 　 sass 　テンプレートの構成を読み解く
+notion でまとめる方向にシフト
+
+【今後】
+21h/1week
+ポートフォリオ：2h/1week
+HTML/CSS：2h/1week
+JS/その他：2h/1week
+建設会社/15h/1week
+
+1029 8h
+【todo】
+ヘッダー&ナビの完成
+・マークアップ
+・レイアウト
+・フォント　カラー
+・機能 1
+・機能 2
+・機能 3
+・機能 4
+・機能 5
+・機能 6
+
+【予定】
+top header
+top header
+top header
+top header
+top fv
+top fv
+top fv
+top fv
+【結果】
+top header
+top header
+top header
+top header
+top header
+top header
+
+1028 2h
+【予定】
+top header
+top header
+top header
+top header
+【結果】
+top header
+top header
+
 1027 1.5h
 【予定】
 top header
