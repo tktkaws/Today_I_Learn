@@ -1,4 +1,28 @@
+1030 9h
 【todo】
+kv アニメーションの実装
+【予定】
+top kv
+top kv
+top kv
+
+top kv
+top kv
+top kv
+
+top kv
+top kv
+top kv
+【結果】6h
+top kv
+top kv
+top kv
+
+top kv
+top kv
+top kv
+
+<!-- 【todo】
 ejs 　 gulp 　 webpack 　 sass 　テンプレートの構成を読み解く
 notion でまとめる方向にシフト
 
@@ -7,7 +31,7 @@ notion でまとめる方向にシフト
 ポートフォリオ：2h/1week
 HTML/CSS：2h/1week
 JS/その他：2h/1week
-建設会社/15h/1week
+建設会社/15h/1week -->
 
 1029 8h
 【todo】
