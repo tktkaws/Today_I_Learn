@@ -1,8 +1,10 @@
-1031 1h
+1031 1.5h
 【予定】
+top kv
 top kv
 【結果】
 top kv
+top about
 
 1030 9h
 【todo】
