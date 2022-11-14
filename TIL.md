@@ -1,5 +1,5 @@
-1114 1h
-news markup
+1114 2.5h
+news newsdetail markup
 
 1113 6h
 service works worksdetail
