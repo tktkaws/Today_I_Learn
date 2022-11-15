@@ -1,4 +1,4 @@
-1115 1h newsdetail markup
+1115 2.5h newsdetail 404 privacy markup
 
 1114 2.5h
 news newsdetail markup
