@@ -65,3 +65,10 @@ http://mtrad-blog.com/2020/02/28/post-789/
 記事複製には以下のプラグインが便利です。
 【2022 年最新】Yoast Duplicate Post の使い方・設定方法まとめ
 https://blog-bootcamp.jp/start/wordpress-duplicatepost/
+
+https://helloharu.com/paginate-links_confused/
+WordPress の管理画面より、
+
+設定>表示設定
+
+で、1 ページに表示する最大投稿数を”1″にします。
