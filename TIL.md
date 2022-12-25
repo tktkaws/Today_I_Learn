@@ -1,3 +1,5 @@
+1226 1h newsdetail
+
 1225 1h recruit
 
 1224 2h 404 privacy
