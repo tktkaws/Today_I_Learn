@@ -1,3 +1,5 @@
+1227 0.5h wp_enque_script
+
 1226 1h newsdetail
 
 1225 1h recruit
