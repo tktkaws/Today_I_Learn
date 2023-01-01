@@ -1,3 +1,5 @@
+0101 3h newsdetail worksdetail
+
 1231 0.5h layout
 
 1230 0.5h layout
