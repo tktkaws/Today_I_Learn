@@ -1,3 +1,5 @@
+0104 1h top-news
+
 0103 6h top
 
 0102 4h service contact entry
