@@ -1,3 +1,5 @@
+0106 2h wp_enque_script
+
 0105 1h top-recruit
 
 0104 1h top-news
