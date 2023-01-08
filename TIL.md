@@ -1,3 +1,5 @@
+0108 4h wordpress git
+
 0107 5h wordpress migration
 
 0106 2h wp_enque_script
